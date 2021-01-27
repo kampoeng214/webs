@@ -1,0 +1,10 @@
+while(life()){
+    wakeup();
+    breakfast();
+    goes to campus():
+    drinking coffee();
+    sleeping();
+    if(isweekend()){
+        long sleep();
+    }
+} 
